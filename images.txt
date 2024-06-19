@@ -53,6 +53,7 @@ stainless403/mdcx-builtin-webtop-base:latest
 syncthing/syncthing
 tensorchord/pgvecto-rs:pg14-v0.2.0
 tindy2013/subconverter:latest
+deluan/navidrome:latest
 valeriansaliou/sonic:v1.3.2
 wallabag/wallabag:latest
 xhofe/alist:latest
