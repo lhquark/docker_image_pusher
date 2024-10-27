@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-
+  schedule:
+    # At 5:04am on every 13th day
+    - cron:: '4 5 */13 * *'
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
