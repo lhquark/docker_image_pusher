@@ -29,8 +29,8 @@ haishanh/yacd:master
 henrist/zerotier-one
 herberthe0229/iptv-sources:latest
 homeassistant/home-assistant
-hotio/unpackerr
-hotio/whisparr:nightly
+ghcr.io/hotio/unpackerr
+ghcr.io/hotio/whisparr:nightly
 httpd
 jlesage/czkawka:latest
 jlesage/dupeguru:latest
